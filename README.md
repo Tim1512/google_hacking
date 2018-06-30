@@ -1,6 +1,6 @@
 # Google Hacking ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg) - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - [![HitCount](http://hits.dwyl.io/cr4shcod3/google_hacking.svg)](http://hits.dwyl.io/cr4shcod3/google_hacking)
 
-> "Google Hacking sometimes, referred to as Google dorking, is an information gathering technique used by an attacker leveraging advanced Google searching techniques. Google hacking search queries can be used to identify security vulnerabilities in web applications, gather information for arbitrary or individual targets, discover error messages disclosing sensitive information, discover files containing credentials and other sensitive data." -Acunetix
+> "Google Hacking, also named Google dorking, is a computer hacking technique that uses Google Search and other Google Applications to find security holes in the configuration and computer code that websites use."
 
 ## Getting Started
 > Please ensure to have Python 2 or Python 3 in your system. Install the required dependencies to run the script.
