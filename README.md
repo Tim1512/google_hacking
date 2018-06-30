@@ -15,7 +15,7 @@
 
 ### Installing
 
-`$ pip install requests
+`$ pip install requests`
 
 ## Build With
 * [Requests](https://github.com/requests/requests)
