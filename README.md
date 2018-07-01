@@ -17,6 +17,12 @@
 
 `$ pip install requests`
 
+### Usage
+`$ python google_hacking.py http://example.com`
+OR
+```$ python google_hacking.py
+URL: http://example.com```
+
 ## Build With
 * [Requests](https://github.com/requests/requests)
 
