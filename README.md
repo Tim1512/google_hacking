@@ -19,7 +19,9 @@
 
 ### Usage
 `$ python google_hacking.py http://example.com`
+
 OR
+
 ```
 $ python google_hacking.py
 URL: http://example.com
