@@ -1,4 +1,4 @@
-# Google Hacking ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg) - ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) - [![HitCount](http://hits.dwyl.io/cr4shcod3/google_hacking.svg)](http://hits.dwyl.io/cr4shcod3/google_hacking)
+# Google Hacking ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg) - [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) - [![HitCount](http://hits.dwyl.io/cr4shcod3/google_hacking.svg)](http://hits.dwyl.io/cr4shcod3/google_hacking)
 
 > "Google Hacking, also named Google dorking, is a computer hacking technique that uses Google Search and other Google Applications to find security holes in the configuration and computer code that websites use."
 
