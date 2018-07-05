@@ -120,7 +120,7 @@ def main():
 		webbrowser.open_new_tab(google_hacking + 'site:' + url + '+ext:bkf+|+ext:bkp+|+ext:bak+|+ext:old+|+ext:backup')
 		main()
 	elif choice == 6 or choice == 06:
-		webbrowser.open_new_tab(google_hacking + 'site:' + url + '+inurl:login')
+		webbrowser.open_new_tab(google_hacking + 'site:' + url + '+inurl:login | admin | user | cpanel | account | moderator | /cp')
 		main()
 	elif choice == 7 or choice == 07:
 		webbrowser.open_new_tab(google_hacking + 'site:' + url + '+intext:"sql+syntax+near"+|+intext:"syntax+error+has+occurred"+|+intext:"incorrect+syntax+near"+|+intext:"unexpected+end+of+SQL+command"+|+intext:"Warning:+mysql_connect()"+|+intext:"Warning:+mysql_query()"+|+intext:"Warning:+pg_connect()"')
